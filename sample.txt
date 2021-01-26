@@ -1,3 +1,6 @@
 sample1
 sample2
 sample3
+sample1(func2)
+sample2(func2)
+sample3(func2)
