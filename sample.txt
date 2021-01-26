@@ -9,3 +9,7 @@ sample3(func1)
 sample1(func2)
 sample2(func2)
 sample3(func2)
+
+sample1(func3)
+sample2(func3)
+sample3(func3)
